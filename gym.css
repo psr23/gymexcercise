@@ -1,0 +1,127 @@
+.title {
+    margin-top: 110px;
+}
+
+body {
+    background-attachment: fixed;
+    /* background-image: url('background.jpg'); */
+    background-image: url('g.jpg'), url('background.jpg');
+    background-repeat: no-repeat, repeat;
+    /* background-size: cover; */
+}
+
+.f1 {
+    float: right;
+}
+
+.a {
+    background-color: rgb(111 121 121 / 72%);
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.ab {
+    background-color: #6d6d6d;
+    text-align: center;
+    height: 100px;
+    border-radius: 8px;
+    padding: 1px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 100px;
+}
+
+.b {
+    color: rgb(248, 208, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+
+/* 
+body {
+    background-image: linear-gradient( yellow, red);
+} */
+
+.c {
+    background-color: rgb(111, 136, 67);
+    padding: 5px;
+    text-align: center;
+    margin-right: 320PX;
+    margin-left: 320px;
+    border-radius: 7px;
+}
+
+.d {
+    color: rgb(245, 217, 165);
+    font-size: 55px;
+    text-align: center;
+    background-color: rgb(111 121 121 / 72%);
+    border-radius: 7px;
+}
+
+.e {
+    font-size: x-large;
+    color: rgb(248, 250, 159);
+    font-size: 45px;
+}
+
+.f {
+    font-size: x-large;
+    color: rgb(197 204 201);
+    font-size: 50px;
+    margin-left: 720px;
+    margin-top: -360px;
+}
+
+.g {
+    color: rgb(210, 216, 223);
+    font-size: larger;
+    margin-left: 500px;
+    margin-right: 85px;
+    /* use for biceps details */
+}
+
+.h {
+    float: right;
+    margin-right: 30px;
+    /* use for chest pic */
+}
+
+.i {
+    font-size: x-large;
+    color: rgb(197 204 201);
+    font-size: 50px;
+    margin-left: 380px;
+    /* use for chest word */
+}
+
+.j {
+    color: rgb(210, 216, 223);
+    font-size: larger;
+    margin-left: 80px;
+}
+
+.k {
+    color: wheat;
+    font-size: larger;
+}
+
+.l {
+    display: inline-block;
+}
+
+.k>li {
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px;
+    /* sabse uppar wale k liy */
+}
+
+.k>li>a:hover {
+    background-color: rgb(5, 5, 5);
+    padding: 15px;
+}
